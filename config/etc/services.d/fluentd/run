@@ -1,3 +1,3 @@
 #!/bin/sh
 
-fluentd -c /etc/fluent.conf
+fluentd -c /etc/fluentd/fluent.conf
